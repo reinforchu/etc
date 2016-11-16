@@ -1,1 +1,1 @@
-﻿# Temporary files
+﻿# ごみ箱

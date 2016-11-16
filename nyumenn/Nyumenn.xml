@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<keys>
+	<consumer>
+		<key>CONSUMER_KEY</key>
+		<secret>CONSUMER_SECRET</secret>
+	</consumer>
+	<access>
+		<token>ACCESS_TOKEN</token>
+		<secret>ACCESS_TOKEN_SECRET</secret>
+	</access>
+</keys>
